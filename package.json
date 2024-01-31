@@ -1,0 +1,16 @@
+{
+        "name": "test-jenkins",
+        "version": "1.0.0",
+        "main": "index.js",
+        "repository": "https://github.com/RustyRaptor/test-jenkins.git",
+        "author": "Ziad Arafat <ziad.arafat@etvamerica.com>",
+        "license": "MIT",
+        "scripts": {
+                "test": "echo \"Error: no test specified\" && exit 1",
+                "start": "node index.js",
+                "dev": "nodemon index.js"
+        },
+        "dependencies": {
+                "nodemon": "^3.0.3"
+        }
+}
