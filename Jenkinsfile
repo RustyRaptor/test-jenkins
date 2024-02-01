@@ -1,9 +1,9 @@
 pipeline {
   agent any
   stages {
-    stage('checkout code') {
+    stage('') {
       steps {
-        sh 'echo "what ze fuk dude"'
+        echo 'huh wuh huh wuh'
       }
     }
 
